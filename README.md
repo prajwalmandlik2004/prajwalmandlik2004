@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **App Development , MERN Stack Development**
 
-- 👯 I’m looking to collaborate on **Websites , Web Appication**
+- 👯 I’m looking to collaborate on **Websites , Web Apps**
 
 - 👨‍💻 All of my projects are available at [( On this GitHub profile )](( On this GitHub profile ))
 
