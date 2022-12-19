@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Web development**
 
-- 🌱 I’m currently learning **Data science with python , Ethical Hacking ,Python , C**
+- 🌱 I’m currently learning **App Development , MERN Stack Development**
 
 - 👯 I’m looking to collaborate on **Web Projects like ( service and content pages for website )**
 
