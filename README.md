@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Android App | Web Development**
 
-- 🌱 I’m currently learning **App Development , MERN Stack Development**
+- 🌱 I’m currently learning **App Development , MERN Stack Development , Backend Development**
 
 - 👯 I’m looking to collaborate on **Android Apps , Websites , Web Apps**
 
