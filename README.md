@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalmandlik2004&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalmandlik2004" /> </p>
 
-- 🔭 I’m currently working on **Web development**
+- 🔭 I’m currently working on **Android App | Web Development**
 
 - 🌱 I’m currently learning **App Development , MERN Stack Development**
 
-- 👯 I’m looking to collaborate on **Websites , Web Apps**
+- 👯 I’m looking to collaborate on **Android Apps , Websites , Web Apps**
 
 - 👨‍💻 All of my projects are available at [( On this GitHub profile )](( On this GitHub profile ))
 
-- 💬 Ask me about **Web development**
+- 💬 Ask me about **Android App | Web development**
 
 - 📫 How to reach me **Telegram ID : @PrajwalMandlik**
 
