@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Prajwal Mandlik</h1>
-<h3 align="center">I am a passionate Web Designer from India</h3>
+<h3 align="center">I am a passionate Full Stack Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalmandlik2004&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalmandlik2004" /> </p>
 
-- 🔭 I’m currently working on **Full Stack Development | AI | Freelancing Projects**
+- 🔭 I’m currently working on **Freelancing Projects**
 
-- 🌱 I’m currently learning **Artificial Intelligence | Full Stack Development**
+- 🌱 I’m currently learning **Rust | AI and ML**
 
 - 👯 I’m looking to collaborate on **Freelancing Projects**
 
