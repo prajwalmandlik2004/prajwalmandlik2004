@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalmandlik2004&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalmandlik2004" /> </p>
 
-- 🔭 I’m currently working on **Full Stack | AI Projects**
+- 🔭 I’m currently working on **Web Development | App Development**
 
 - 🌱 I’m currently learning **AI and ML**
 
-- 👯 I’m looking to collaborate on **Software Development | Freelancing Projects**
+- 👯 I’m looking to collaborate on **Freelancing Projects**
 
 - 👨‍💻 All of my projects are available at [( On this GitHub profile )](( On this GitHub profile ))
 
