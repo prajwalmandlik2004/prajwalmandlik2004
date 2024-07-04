@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Freelancing Projects**
 
-- 👨‍💻 All of my projects are available at my <a target="_blank" href="https://github.com/prajwalmandlik2004">Github</a>
+- 👨‍💻 All of my projects are available at my <a href="https://github.com/prajwalmandlik2004">Github</a>
 
 - 💬 Ask me about **Web Development | App Development**
 
