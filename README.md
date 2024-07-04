@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalmandlik2004&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalmandlik2004" /> </p>
 
-- 🔭 I’m currently working on **Freelancing Projects**
+- 🔭 I’m currently working on **Full Stack Development | AI**
 
-- 🌱 I’m currently learning **Rust | AI and ML**
+- 🌱 I’m currently learning **AI and ML**
 
 - 👯 I’m looking to collaborate on **Freelancing Projects**
 
