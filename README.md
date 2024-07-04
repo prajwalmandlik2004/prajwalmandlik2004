@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalmandlik2004&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalmandlik2004" /> </p>
 
-- 🔭 I’m currently working on **Web Development | App Development**
+- 🔭 I’m currently working on **Full Stack Development and AI**
 
 - 🌱 I’m currently learning **AI and ML**
 
 - 👯 I’m looking to collaborate on **Freelancing Projects**
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/prajwalmandlik2004">Github</a>
+- 👨‍💻 All of my projects are available at my <a target="_blank" href="https://github.com/prajwalmandlik2004">Github</a>
 
-- 💬 Ask me about **Android App | Web development**
+- 💬 Ask me about **Web Development | App Development**
 
 - 📫 How to reach me **Telegram ID : @PrajwalMandlik**
 
