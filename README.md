@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **AI and ML**
 
-- 👯 I’m looking to collaborate on **Software Development Projects**
+- 👯 I’m looking to collaborate on **Software Development | Freelancing Projects**
 
 - 👨‍💻 All of my projects are available at [( On this GitHub profile )](( On this GitHub profile ))
 
